@@ -1,0 +1,19 @@
+html 	{ background: #1c1c1c url(../img/tile.jpeg);  }
+
+#wrap	{ background: url(../img/bg.jpeg) 50% 0 no-repeat; }
+
+#wrap	{ min-height: 1000px; font-family: "Helvetica", sans-serif; font-size: 12px; }
+
+a,
+a:visited	{ color: #ddd; text-decoration: underline; }
+
+header	{ height: 50px; padding-top: 20px; }
+h1		{ text-align: center; font:italic bold 28px/30px Helvetica,serif; color: #eee}
+
+#about	{ width: 500px; margin: 20px auto; color: #ddd; text-align: center; }
+
+#player	{ margin: 30px auto; width: 500px; height: 50px; text-align: center; }
+
+#graph	{ width: 1200px; height: 300px; margin: 0px auto; }
+
+#options	{ /* width: 200px; */ margin: 0 auto; text-align: center;}
