@@ -1,1 +1,1 @@
-openmusicvisualizer is a web application that visualizes the frequency range in music.
+openmusicvisualizer is a web application that visualizes the frequency range of music.
